@@ -1,0 +1,12 @@
+body{
+    background-color: rgb(159, 222, 238);
+}
+table, th, td{
+    border: 1px solid blue;
+   
+    padding: 3px;
+}
+
+#paragrafo{
+    color: red;
+}
